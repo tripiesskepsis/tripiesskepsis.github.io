@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../../myrepo/already/tripiesskepsis.github.io"
+		},
+		{
+			"path": "../backend"
+		},
+		{
+			"path": "../node_modules"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../src"
+		}
+	],
+	"settings": {}
+}
